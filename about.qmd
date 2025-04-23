@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+I'm Maxine Paredes. I have a BSc in Cognitive Systems and Data Science from UBC!

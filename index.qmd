@@ -1,0 +1,7 @@
+---
+title: "tutorial 9"
+---
+
+This is a Quarto website. this was made for tutorial 9 for dsci 310
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
