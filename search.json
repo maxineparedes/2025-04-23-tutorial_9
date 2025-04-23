@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tutorial 9",
+    "section": "",
+    "text": "This is a Quarto website. this was made for tutorial 9 for dsci 310. This tutorial is now completed\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "I’m Maxine Paredes. I have a BSc in Cognitive Systems and Data Science from UBC!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tutorial 9",
-    "section": "",
-    "text": "This is a Quarto website. this was made for tutorial 9 for dsci 310\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
